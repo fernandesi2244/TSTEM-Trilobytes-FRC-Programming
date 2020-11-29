@@ -1,8 +1,8 @@
-# TSTEMTrilobytesFRCProgramming
-I just wanted to showcase my programming work for the TSTEM TRILOBYTES team for First Tech Challenge Robotics! 
+# TSTEM Trilobytes FRC Programming
+I just wanted to showcase my programming work for the TSTEM TRILOBYTES First Robotics Challenge (FRC) team! 
 
 # Credit
-Just to be sure, I had some help from other programming team members from the TSTEM TRILOBYTES on various parts of the code.
+Just to be sure, I had some help from other programming team members of the TSTEM TRILOBYTES on various parts of the code.
 Link to Original Repository: https://github.com/TSTEMTrilobytesSoftware/FRC-Deep-Space-2019-Programming
 
 # Website
